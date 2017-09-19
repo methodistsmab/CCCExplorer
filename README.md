@@ -12,4 +12,8 @@ Youtube video URL:
 
 # User Guide
 
->https://github.com/methodistsmab/CCCExplorer/blob/master/CCCExplorer/CCCExplorer user_guide_v1 2017.pdf
+>https://github.com/methodistsmab/CCCExplorer/blob/master/CCCExplorer_user_guide_v1.pdf
+
+# License Agreement
+
+>
