@@ -9,3 +9,7 @@ Now, I’m going to show you how to use CCCExplorer.
 Youtube video URL:
 
 >https://youtu.be/wN4vHV6hoig
+
+# User Guide
+
+>https://github.com/methodistsmab/CCCExplorer/blob/master/CCCExplorer/CCCExplorer user_guide_v1 2017.pdf
