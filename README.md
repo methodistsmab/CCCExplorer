@@ -16,4 +16,4 @@ Youtube video URL:
 
 # License Agreement
 
->
+>https://github.com/methodistsmab/CCCExplorer/blob/master/CCCExplorer_End_User_License_Agreement.pdf
