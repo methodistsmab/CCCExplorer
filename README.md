@@ -15,6 +15,8 @@ Youtube video URL:
 
 >https://youtu.be/wN4vHV6hoig
 
+[![Alt text](https://raw.githubusercontent.com/methodistsmab/CCCExplorer/master/cccexplorer_screenshot.png)](https://www.youtube.com/watch?v=wN4vHV6hoig)
+
 # User Guide
 
 >https://github.com/methodistsmab/CCCExplorer/blob/master/CCCExplorer_user_guide_v1.pdf
