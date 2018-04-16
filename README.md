@@ -3,6 +3,11 @@
 CCCExplorer is a java-based software that predicts and visualizes the gene signaling network to aid research on crosstalk identification in the tumor microenvironment. 
 CCCExplorer integrates a computational model that we developed to uncover cell-cell communication as a direct and connected network. These cell communications range from ligand-receptor interactions to transcription factors and their target genes. 
 
+Please cite the following paper when you use CCCExplorer.
+
+>Transcriptome analysis of individual stromal cell populations identifies stroma-tumor crosstalk in mouse lung cancer model. H Choi, J Sheng, et al. Cell Reports, 2015. 24;10(7):1187-201
+
+
 [![Alt text](https://raw.githubusercontent.com/methodistsmab/CCCExplorer/master/cccexplorer_screenshot.png)](https://www.youtube.com/watch?v=wN4vHV6hoig)
 
 # MacOS verison Download
