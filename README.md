@@ -50,6 +50,6 @@ Youtube video URL:
 
 >Email: STWong@houstonmethodist.org
 
-# @ HOUS
+#Houston Methodist Research Institute 
 [DEPARTMENT OF SYSTEMS MEDICINE & BIOENGINEERING ](https://www.houstonmethodist.org/for-health-professionals/department-programs/systems-medicine-bioengineering-smab/)
 
