@@ -40,13 +40,13 @@ Please read the guide before you run CCCExplorer
 
 # Contact
 
->Jianting Sheng
-
->Email: jsheng@houstonmethodist.org
-
 >Xiaohui Yu
 
 >Email: xyu2@houstonmethodist.org
+
+>Jianting Sheng
+
+>Email: jsheng@houstonmethodist.org
 
 >Wong, Stephen (PI)
 
