@@ -10,6 +10,12 @@ CCCExplorer integrates a computational model that we developed to uncover cell-c
 
 [![Alt text](https://raw.githubusercontent.com/methodistsmab/CCCExplorer/master/cccexplorer_screenshot.png)](https://www.youtube.com/watch?v=wN4vHV6hoig)
 
+# The version 2 of CCCExplorer will be comming soon.
+
+It support multiple cell types and other new features. 
+[![Alt text](https://raw.githubusercontent.com/methodistsmab/CCCExplorer/master/v2_1.png)]
+[![Alt text](https://raw.githubusercontent.com/methodistsmab/CCCExplorer/master/v2_2.png)]
+
 # MacOS verison Download
 
 >https://www.dropbox.com/s/1y1or8ougjkzu3x/CCCExplorer_MacOS.zip?dl=0
