@@ -8,10 +8,6 @@ CCCExplorer integrates a computational model that we developed to uncover cell-c
 >Transcriptome analysis of individual stromal cell populations identifies stroma-tumor crosstalk in mouse lung cancer model. H Choi, J Sheng, et al. Cell Reports, 2015. 24;10(7):1187-201
 
 
-[![Alt text](https://raw.githubusercontent.com/methodistsmab/CCCExplorer/master/cccexplorer_screenshot.png)](https://www.youtube.com/watch?v=wN4vHV6hoig)
-
-### The version 2 of CCCExplorer is under internal testing and will be comming soon.
-
 It support multiple cell types and other new features. 
 ![Alt text](https://raw.githubusercontent.com/methodistsmab/CCCExplorer/master/v2_1.png)
 ![Alt text](https://raw.githubusercontent.com/methodistsmab/CCCExplorer/master/v2_2.png)
