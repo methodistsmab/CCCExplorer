@@ -12,9 +12,6 @@ It support multiple cell types and other new features.
 ![Alt text](https://raw.githubusercontent.com/methodistsmab/CCCExplorer/master/v2_1.png)
 ![Alt text](https://raw.githubusercontent.com/methodistsmab/CCCExplorer/master/v2_2.png)
 
-# MacOS verison Download
-
->https://www.dropbox.com/s/1y1or8ougjkzu3x/CCCExplorer_MacOS.zip?dl=0
 
 # How to use CCCExplorer
 
