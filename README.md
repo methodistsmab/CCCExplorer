@@ -23,7 +23,7 @@ Youtube video URL:
 
 Please read the guide before you run CCCExplorer
 
->https://github.com/methodistsmab/CCCExplorer/blob/master/CCCExplorer%20user_guide_v1.pdf
+>https://github.com/methodistsmab/CCCExplorer/blob/master/CCCExplorer user_guide_v1.1.0.pdf
 
 # License Agreement
 
