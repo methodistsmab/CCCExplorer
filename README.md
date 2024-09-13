@@ -25,6 +25,11 @@ Please read the guide before you run CCCExplorer
 
 >https://github.com/methodistsmab/CCCExplorer/blob/master/CCCExplorer%20user_guide_v1.1.0.pdf
 
+# Sample test
+
+We provide some samples in the sample folder of our CCCExplorer_v1.1.0.zip. 
+You can test it.
+
 # License Agreement
 
 >https://github.com/methodistsmab/CCCExplorer/blob/master/CCCExplorer_End_User_License_Agreement.pdf
