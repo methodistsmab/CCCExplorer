@@ -44,15 +44,18 @@ You can test it.
 
 # Contact
 
+### Software Support
 >Xiaohui Yu
 
 >Email: xyu2@houstonmethodist.org
 
+### Algorithms Support
 >Jianting Sheng
 
 >Email: jsheng@houstonmethodist.org
 
->Wong, Stephen (PI)
+### PI
+>Wong, Stephen 
 
 >Email: STWong@houstonmethodist.org
 
